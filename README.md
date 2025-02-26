@@ -29,4 +29,16 @@
 
 
 # Fusionar ramas (merge)
-  + 
+ + Fucionar una rama en la rama actual:
+   >**git merge nombre-de-la-rama**
+
+# Trabajar con repositorios remotos.
+ + Agregar un repositorio remoto:
+   >**git remote add origin https://url-del-repositorio.git**
+ + Ver los repositorios remotos:
+   >**git remote -v**
+ + Subir los cambios al repositorio remoto:
+   >**git push**
+ + Bajar los cambios del repositorio remoto al local:
+   >**git pull**
+
