@@ -5,6 +5,7 @@
    > **git config --global user.name "TuNombre"**
 
    >**git config --global user.email "TuEmail"**
+   
 
 # Comandos de trabajo con archivos.
  + Ver el estado de los archivos:
@@ -31,6 +32,7 @@
 # Fusionar ramas (merge)
  + Fucionar una rama en la rama actual:
    >**git merge nombre-de-la-rama**
+
 
 # Trabajar con repositorios remotos.
  + Agregar un repositorio remoto:
