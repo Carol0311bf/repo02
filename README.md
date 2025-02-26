@@ -13,8 +13,15 @@
   >**git add archivo.txt**
 + Para añadir todos los archivos:
   >**git add .**
-+ hacer un commit:
++ Hacer un commit:
   >**git commit -m "my commit"**
 + Ver el historial de commits:
   >**git log**
-  
+# Trabajar con ramas (branches).
++ Crear una nueva rama:
+  >**git branch nombre de la rama**
++ Cambiar a una rama existente:
+  >**git checkout nombre de la rama**
++ Crear y cambiar a una nueva rama:
+  >**git checkout -b nombre-de-la-nueva-rama**
+
