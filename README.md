@@ -9,7 +9,7 @@
 # Comandos de trabajo con archivos.
  + Ver el estado de los archivos:
    >**git status**
- + Añadir archivos al area de preparacion (standing area)
+ + Añadir archivos al área de preparacion (standing area)
    >**git add archivo.txt**
  + Para añadir todos los archivos:
    >**git add .**
@@ -41,4 +41,22 @@
    >**git push**
  + Bajar los cambios del repositorio remoto al local:
    >**git pull**
+
+
+# Sincronización de repositorios.
+  + Clonar un repositorio remoto:
+   >**git clone https://url-del-repositorio.git**
+
+
+# Comandos útiles:
+ + Eliminar un archivo del repositorio y del sistema de archivos:
+   >**git rm archivo.txt**
+
+
+# Comandos de ayuda.
+ + Ver documentación sobre los comandos git:
+   >**git --help**
+
+  
+   
 
