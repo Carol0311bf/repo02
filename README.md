@@ -45,7 +45,7 @@
 
 # Sincronización de repositorios.
   + Clonar un repositorio remoto:
-   >**git clone https://url-del-repositorio.git**
+    >**git clone https://url-del-repositorio.git**
 
 
 # Comandos útiles:
