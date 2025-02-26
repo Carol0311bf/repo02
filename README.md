@@ -4,4 +4,4 @@
 
   > **"git config --global user.name "TuNombre"**
 
-  >**git config --global user.email "tu email"**
+  >**git config --global user.email "TuEmail"**
